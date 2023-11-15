@@ -1,3 +1,0 @@
-Transaction History:
-Type: Deposit, Amount: 100.000000
-Type: Withdrawal, Amount: 50.000000
