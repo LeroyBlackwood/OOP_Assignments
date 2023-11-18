@@ -1,0 +1,12 @@
+
+						  Account Type:		Savings Account 
+						  Transaction Type:	Credit/Deposit Transaction
+						  Transaction Amount:	$3.00
+						  Account Balance: $2003
+
+
+						  Account Type:		Savings Account 
+						  Transaction Type:	Debit/Withdraw Transaction
+						  Transaction Amount:	$0.00
+Account Balance: $2003
+
