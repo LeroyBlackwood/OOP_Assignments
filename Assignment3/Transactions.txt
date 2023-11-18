@@ -1,0 +1,25 @@
+							    <<< XYZ Bank >>>
+						  Account Type:		Savings Account 
+						  Transaction Type:	Credit/Deposit Transaction
+						  Transaction Amount:	$3455.00
+						  Account Balance:	$5455
+
+
+						  Account Type:		Savings Account 
+						  Transaction Type:	Debit/Withdraw Transaction
+						  Transaction Amount:	$345.00
+						  Account Balance:	$5110
+
+
+						  Account Type:		Checking Account 
+						  Transaction Type:	Credit/deposit Transaction
+						  Transaction Amount:	$10000.00
+						  Account Balance:	$12000
+
+
+						  Account Type:		Checking Account 
+						  Transaction Type:	Debit/Withdraw Transaction
+						  Transaction Amount:	$8000.00
+						  Withdraw Charge:	$30
+						  Account Balance:	$3970
+
