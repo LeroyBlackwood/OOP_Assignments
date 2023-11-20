@@ -3,7 +3,7 @@ Group 1
 Leroy Blackwood  2201013575
 Rushain Miller   1500183681
 Shewae Graham    2101012698
-Matthew Saunder  2201011658
+Matthew Saunders  2201011658
 Donald Graham    2201010374
 Alanna Thomas    2101013301
 */
